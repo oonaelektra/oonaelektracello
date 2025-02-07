@@ -6,8 +6,9 @@ body {
 }
 h1 {
     font-family: 'Lexend', sans-serif;
+    font-size: 24px;
     font-weight: 200;
-    letter-spacing: 4px;
+    letter-spacing: 5px;
     color:rgb(62, 62, 62);
     text-align: center;
 }
@@ -24,6 +25,6 @@ p  {
     font-weight: 200;
     letter-spacing: 4px;
     color:rgb(62, 62, 62);
-    text-align: left;
+    text-align: center;
 
 }
