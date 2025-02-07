@@ -12,11 +12,17 @@ h1 {
     text-align: center;
 }
 h2 {
+    font-family: 'Lexend', sans-serif;
+    font-weight: 200;
+    letter-spacing: 4px;
     color:rgb(62, 62, 62);
     text-align: center;
 
 }
 p  {
+    font-family: 'Lexend', sans-serif;
+    font-weight: 200;
+    letter-spacing: 4px;
     color:rgb(62, 62, 62);
     text-align: left;
 
