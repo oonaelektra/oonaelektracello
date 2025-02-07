@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;700&display=swap');
 
 body {
-    background-color:rgb(165, 150, 145);
+    background-color:rgb(165, 150, 150);
     font-family: 'Lexend', sans-serif;
     letter-spacing: 400;
     font-weight: 200;
@@ -25,9 +25,8 @@ h2 {
 p  {
     font-family: 'Lexend', sans-serif;
     font-weight: 200;
-    letter-spacing: 4px;
     color:rgb(62, 62, 62);
-    text-align: center;
+    text-align: left;
 
 }
 nav {
