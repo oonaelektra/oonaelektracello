@@ -45,8 +45,12 @@ figure {
     display: flex;
     flex-direction: column;
     align-items: center; 
-    width: fit-content; 
-    margin: 0 auto; 
+    width: 100%; 
+}
+img {
+    max-width: 100%; 
+    height: auto; 
+    display: block; 
 }
 figcaption {
     align-self: flex-start; 
