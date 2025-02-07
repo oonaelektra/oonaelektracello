@@ -1,18 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;700&display=swap');
+
 body {
-    background-color:beige;
-    font-family: Arial, sans-serif;
+    background-color:rgb(150, 137, 135);
+    font-family: 'Lexend', sans-serif;
 }
 h1 {
-    color:darkslategray;
+    color:rgb(62, 62, 62);
     text-align: center;
 }
 h2 {
-    color:darkslategray;
+    color:rgb(62, 62, 62);
     text-align: center;
 
 }
 p  {
-    color:dimgray;
-    text-align: center;
+    color:rgb(62, 62, 62);
+    text-align: right;
 
 }
