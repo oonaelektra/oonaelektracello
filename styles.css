@@ -34,5 +34,10 @@ nav {
     display: flex;
     justify-content: center;
     gap: 20px; 
+    
+}
+
+nav a {
+    text-decoration: none; 
     color:rgb(62, 62, 62);
 }
