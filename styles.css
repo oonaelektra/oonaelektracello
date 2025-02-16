@@ -51,7 +51,7 @@ img {
     display: block; 
 }
 figcaption {
-    align-self: flex-start; 
+    align-self: center; 
     font-size: 14px;
     color:rgb(62, 62, 62);
     margin-top: 5px;
