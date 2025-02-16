@@ -27,6 +27,9 @@ p  {
     font-weight: 200;
     color:rgb(62, 62, 62);
     text-align: center;
+    padding: 15px;
+    margin: 20px auto;
+    width: 80%;
 
 }
 nav {
