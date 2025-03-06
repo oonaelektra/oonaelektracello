@@ -3,7 +3,7 @@
 body {
     background-color:rgb(165, 150, 150);
     font-family: 'Lexend', sans-serif;
-    letter-spacing: 400;
+    letter-spacing: 1px;
     font-weight: 200;
 }
 h1 {
@@ -51,20 +51,21 @@ figure {
     align-items: center; 
     justify-content: center;
     width: 100%; 
+    max-width: 100%;
     margin: 0 auto;
 }
 
 img {
-    max-width: 100%; 
+    max-width: 100%;
     min-width: 250px;
-    height: auto; 
-    display: block; 
-    margin: 0 auto;
+    height: auto;
+    display: block;
 }
 figcaption {
-    text-align: center; 
-    width: 90%;
+    text-align: center;
+    align-self: center; 
+    width: auto;
     font-size: 14px;
-    color:rgb(62, 62, 62);
+    color: rgb(62, 62, 62);
     margin-top: 5px;
-} }
+}}
