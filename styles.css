@@ -22,6 +22,13 @@ h2 {
     text-align: center;
 
 }
+h3 {
+    font-family: 'Lexend', sans-serif;
+    font-weight: 100;
+    letter-spacing: 4px;
+    color:rgb(62, 62, 62);
+    text-align: center;
+}
 p  {
     font-family: 'Lexend', sans-serif;
     font-size: 18px;
