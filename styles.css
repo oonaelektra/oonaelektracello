@@ -51,16 +51,19 @@ figure {
     align-items: center; 
     justify-content: center;
     width: 100%; 
+    margin: 0 auto;
 }
 
 img {
-    max-width: 90%; 
+    max-width: 100%; 
     min-width: 250px;
     height: auto; 
     display: block; 
+    margin: 0 auto;
 }
 figcaption {
-    align-self: center; 
+    text-align: center; 
+    width: 90%;
     font-size: 14px;
     color:rgb(62, 62, 62);
     margin-top: 5px;
