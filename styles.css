@@ -85,3 +85,10 @@ figcaption {
     color: rgb(62, 62, 62);
     margin-top: 5px;
 }}
+a {
+    text-decoration: none; /* Removes any default underline */
+}
+
+img {
+    cursor: pointer; /* Shows pointer when hovering over the image */
+}
